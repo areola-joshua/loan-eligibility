@@ -1,2 +1,2 @@
 # loan-eligibility
-This dataset consist
+The dataset 
