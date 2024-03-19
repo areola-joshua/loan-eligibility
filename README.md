@@ -4,8 +4,8 @@
 
 🎬 Objectives of Notebook
 👉 This notebook aims to:
-Analyze customer data provided in data set (EDA)
-Build various ML models that can predict loan approval
+ Analyze customer data provided in data set (EDA)
+ Build various ML models that can predict loan approval
 👨‍💻 The machine learning models used in this project are:
 
 Logistic Regression
