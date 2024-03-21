@@ -8,13 +8,13 @@
  Build various ML models that can predict loan approval
 👨‍💻 The machine learning models used in this project are:
 
-Logistic Regression
-K-Nearest Neighbour (KNN)
-Support Vector Machine (SVM)
-Naive Bayes
-Decision Tree
-Random Forest
-Gradient Boost
+😆Logistic Regression
+😆K-Nearest Neighbour (KNN)
+😆Support Vector Machine (SVM)
+😆Naive Bayes
+😆Decision Tree
+😆Random Forest
+😆Gradient Boost
 
 Data Set Description
 👉 There are 13 variables in this data set:
